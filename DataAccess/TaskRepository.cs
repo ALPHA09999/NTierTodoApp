@@ -32,14 +32,14 @@ namespace NTierTodoApp.DataAccess
             // TODO: مادختساب ةمهملا نع ثحبا id 
 
             // TODO:  ةمئاقلا نم اهتلازإب مق ،ةدوجوم ةمهملا تناك اذإ 
-            // ابحث عن المهمة باستخدام id
-            var task = tasks.FirstOrDefault(t => t.Id == id);
+                // ابحث عن المهمة باستخدام id
+                var task = tasks.FirstOrDefault(t => t.Id == id);
 
-            // إذا كانت المهمة موجودة، قم بإزالتها من القائمة
-            if (task != null)
-            {
-                tasks.Remove(task);
+                // إذا كانت المهمة موجودة، قم بإزالتها من القائمة
+                if (task != null)
+                {
+                    tasks.Remove(task);
+                }
             }
-        }
     }
 }

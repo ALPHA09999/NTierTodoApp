@@ -42,7 +42,7 @@ namespace NTierTodoApp.Business
             // TODO: ةقبط يف فذحلا ةلاد ءاعدتسا DataAccess 
             {
                 // استدعاء دالة الحذف في طبقة DataAccess
-                repository.Delete(id);
+                    repository.Delete(id);
             }
         }
     }

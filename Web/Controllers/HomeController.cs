@@ -37,11 +37,11 @@ namespace NTierTodoApp.Controllers
         [HttpPost] 
         public IActionResult DeleteTask(int id) 
         { 
-            // TODO: يف ةمهملا فذح ةلاد ءاعدتسا TaskService 
- 
-            // استدعاء دالة حذف المهمة في TaskService
-            taskService.DeleteTask(id);
-            return RedirectToAction("Index");
+                // TODO: يف ةمهملا فذح ةلاد ءاعدتسا TaskService 
+            
+                // استدعاء دالة حذف المهمة في TaskService
+                taskService.DeleteTask(id);
+                return RedirectToAction("Index");
         } 
     } 
 } 
