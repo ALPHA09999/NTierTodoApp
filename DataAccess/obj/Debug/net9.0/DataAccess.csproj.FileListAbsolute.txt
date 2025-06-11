@@ -1,0 +1,11 @@
+C:\Users\mohamad_abod\Desktop\test\ToDoSolution\DataAccess\bin\Debug\net9.0\DataAccess.deps.json
+C:\Users\mohamad_abod\Desktop\test\ToDoSolution\DataAccess\bin\Debug\net9.0\DataAccess.dll
+C:\Users\mohamad_abod\Desktop\test\ToDoSolution\DataAccess\bin\Debug\net9.0\DataAccess.pdb
+C:\Users\mohamad_abod\Desktop\test\ToDoSolution\DataAccess\obj\Debug\net9.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohamad_abod\Desktop\test\ToDoSolution\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\mohamad_abod\Desktop\test\ToDoSolution\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfo.cs
+C:\Users\mohamad_abod\Desktop\test\ToDoSolution\DataAccess\obj\Debug\net9.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mohamad_abod\Desktop\test\ToDoSolution\DataAccess\obj\Debug\net9.0\DataAccess.dll
+C:\Users\mohamad_abod\Desktop\test\ToDoSolution\DataAccess\obj\Debug\net9.0\refint\DataAccess.dll
+C:\Users\mohamad_abod\Desktop\test\ToDoSolution\DataAccess\obj\Debug\net9.0\DataAccess.pdb
+C:\Users\mohamad_abod\Desktop\test\ToDoSolution\DataAccess\obj\Debug\net9.0\ref\DataAccess.dll
