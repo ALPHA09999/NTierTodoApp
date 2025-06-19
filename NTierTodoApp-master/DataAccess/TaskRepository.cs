@@ -27,11 +27,11 @@ namespace NTierTodoApp.DataAccess
         }
 
         // TODO:  ةمهملا فذح ةلاد ذيفنت 
-        public void Delete(int id)
-        {
-            var task = tasks.FirstOrDefault(t => t.Id == id);
-            if (task != null)
-                tasks.Remove(task);
-        }
+                public void Delete(int id)
+                {
+                    var task = tasks.FirstOrDefault(t => t.Id == id);
+                    if (task != null)
+                        tasks.Remove(task);
+                }
        }
     }

@@ -36,11 +36,11 @@ namespace NTierTodoApp.Business
                 task.IsComplete = true;
         }
 
-        // TODO:   فذح ةلاد ذيفنت ةمهملا 
-            public void DeleteTask(int id)
-            {
-                repository.Delete(id);
-            }
+                    // TODO:   فذح ةلاد ذيفنت ةمهملا 
+                        public void DeleteTask(int id)
+                        {
+                            repository.Delete(id);
+                        }
     }
 }
  
